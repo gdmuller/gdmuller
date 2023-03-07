@@ -20,6 +20,7 @@ jobs:
       - name: Spotify - Top Artists
         uses: lowlighter/metrics@latest
         with:
+          filename: spotify.topartists.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
