@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdmuller)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gdmuller&show_icons=true&border_color=ffffff&title_color=bd162c&icon_color=bd162c&text_color=0a0a0a" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdmuller&layout=compact&border_color=ffffff&title_color=0a0a0a&text_color=0a0a0a" /> </a> |
+| ------------- | ------------- |
